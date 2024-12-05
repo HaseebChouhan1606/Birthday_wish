@@ -67,7 +67,7 @@ body {
   color: #fff;
   padding: .5rem 1rem;
   position: absolute;
-  right: 5px;
+  text-align: center;
 }
 
 .five p {
@@ -110,7 +110,7 @@ body {
 .six .hat {
   left: 35%;
   position: absolute;
-  top: -40%;
+  top: -31%;
   width: 100px; /* Increased size */
 }
 
@@ -204,13 +204,13 @@ body {
 }
 
 .wish-hbd {
-  font-size: 3em;
+  font-size: 1em;
   margin: 0;
-  text-transform: uppercase;
+
 }
 
-.wish h5 {
-  font-size: 2rem;
+#wishText {
+  font-size: 1rem;
   font-weight: lighter;
   margin: 10px 0 0;
 }
@@ -260,7 +260,7 @@ body {
   }
 
   .text-box .fake-btn {
-    bottom: -38px;
+    text-align: center;
     right: 5px;
   }
 
@@ -279,10 +279,10 @@ body {
   }
 
   .wish-hbd {
-    font-size: 2.2em;
+    font-size: 1.5em;
   }
 
-  .wish h5 {
+  .wish p {
     font-size: 1.4rem;
   }
 
